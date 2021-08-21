@@ -1,0 +1,10 @@
+/* hr element custom style*/
+hr{
+    width:50%;
+    text-align:left;
+    margin-left:0;
+    margin-top:0;
+    border:none; 
+    color: #B0C9DD; 
+    background-color:#000;
+}
